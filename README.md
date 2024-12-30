@@ -34,6 +34,13 @@ Profissional com mais de 20 anos de experiência em TI, especializado em Engenha
 - Inovação e adaptação tecnológica
 - Visão estratégica e foco em resultados
 
+---
+
+📞 (61) 99687-3865 | 📧 rodrio.consultoria@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-borges-marquez-b9478423/) | [SouGov](https://curriculo.sougov.economia.gov.br/rodrigo-marquez-10067311) | [Lattes](http://lattes.cnpq.br/4717851441982070)
+
+
 ## 🚀 Tecnologias
 
 <details>
@@ -62,12 +69,6 @@ Profissional com mais de 20 anos de experiência em TI, especializado em Engenha
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
 
 </details>
-
----
-
-📞 (61) 99687-3865 | 📧 rodrio.consultoria@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/rodrigo-borges-marquez-b9478423/) | [SouGov](https://curriculo.sougov.economia.gov.br/rodrigo-marquez-10067311) | [Lattes](http://lattes.cnpq.br/4717851441982070)
 
 <details>
 <summary><b>📊 Estatísticas GitHub</b></summary>
