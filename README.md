@@ -1,12 +1,11 @@
 ### "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" 😉
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/karinnecristinapereira/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@KarinneCristina)](https://medium.com/@KarinneCristina)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](karinnecristinapereira@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/karinne)](https://www.kaggle.com/karinne)
-[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://karinneristina.glitch.me/)](https://karinneristina.glitch.me/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-borges-marquez-b9478423//)](https://www.linkedin.com/in/rodrigo-borges-marquez-b9478423)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rbmarquez)](https://rbmarquez.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=rodrigo.consultoria@gmail.com)](rodrigo.consultoria@gmail.com)
+[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://rbmarquez.github.io/)](https://rbmarquez.github.io/)
 
 <p align="center">
-  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
+  <img src="https://github.com/rbmarquez/rbmarquez/blob/main/Designer_GitHub.png" alt="animated" />
 </p>
 
 # Rodrigo Borges Marquez
@@ -131,11 +130,11 @@ Committed to technical excellence and continuous innovation, I constantly seek t
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
 <a href="https://github.com/rbmarquez">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=karinnecristina&show_icons=true&theme=dark&include_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rbmarquez&show_icons=true&theme=dark&include_commits=true"/>
 </a>
 
 <a href="https://github.com/karinnecristina">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=8&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbmarquez&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 
