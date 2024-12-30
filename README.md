@@ -5,7 +5,7 @@
   <img src="https://github.com/rbmarquez/rbmarquez/blob/main/Designer_GitHub.png" alt="animated" width="60%"/>
 </p>
 
-_ A inovação é o combustível do progresso; quem abraça o futuro colhe os frutos da prosperidade._
+_A inovação é o combustível do progresso; quem abraça o futuro colhe os frutos da prosperidade._
 # Rodrigo Borges Marquez
 
 ## Analista de TI | Especialista em Engenharia de Dados e IA
