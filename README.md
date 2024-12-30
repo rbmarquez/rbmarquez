@@ -82,8 +82,6 @@ Committed to technical excellence and continuous innovation, I constantly seek t
 
 <br>
 
- ## 🚀 **Linguagens e Ferramentas:**
-
 ## 🚀 Linguagens e Ferramentas:
 
 #### 💻 Uso diário:
