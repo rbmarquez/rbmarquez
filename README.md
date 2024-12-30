@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/rbmarquez/rbmarquez/blob/main/Designer_GitHub.png" alt="animated" width="60%"/>
 </p>
+
 ## A inovação é o combustível do progresso; quem abraça o futuro colhe os frutos da prosperidade.
 # Rodrigo Borges Marquez
 
