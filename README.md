@@ -36,9 +36,7 @@ Profissional com mais de 20 anos de experiência em TI, especializado em Engenha
 
 ---
 
-📞 (61) 99687-3865 | 📧 rodrio.consultoria@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/rodrigo-borges-marquez-b9478423/) | [SouGov](https://curriculo.sougov.economia.gov.br/rodrigo-marquez-10067311) | [Lattes](http://lattes.cnpq.br/4717851441982070)
+📞 (61) 99687-3865 | 📧 rodrio.consultoria@gmail.com | [LinkedIn](https://www.linkedin.com/in/rodrigo-borges-marquez-b9478423/) | [SouGov](https://curriculo.sougov.economia.gov.br/rodrigo-marquez-10067311) | [Lattes](http://lattes.cnpq.br/4717851441982070)
 
 
 ## 🚀 Tecnologias
