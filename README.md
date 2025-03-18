@@ -8,7 +8,7 @@
 _A inovação é o combustível do progresso; quem abraça o futuro colhe os frutos da prosperidade._
 # Rodrigo Borges Marquez
 
-## Analista de TI | Especialista em Engenharia de Dados e IA
+## Analista de TI | Especialista em Engenharia de Dados e Inteligência Artificial-IA
 
 Profissional com mais de 20 anos de experiência em TI, especializado em Engenharia de Dados, IA e Gestão de TI no setor público. Atualmente Coordenador de Desenvolvimento de Soluções no Ministério dos Transportes.
 
